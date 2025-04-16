@@ -61,4 +61,4 @@ module.exports = {
     deleteTransactionById
 };
 
-//This is just to imagine as new changes to the code
+//This is just to make changes to the image and check how its dynamically added. We can enable webhooks which will trigger the pipeline once it see any changes.
